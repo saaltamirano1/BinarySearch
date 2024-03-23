@@ -117,3 +117,7 @@ public class Sketch {
     //empty!
   }
 }
+  public void draw(){
+    //empty!
+  }
+}
